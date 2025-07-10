@@ -1,0 +1,386 @@
+{
+  "products": [
+    {
+      "id": "audi001",
+      "main_image": "https://imgd.aeplcdn.com/370x208/n/51vlkbb_1686149.jpg?q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/370x208/n/f2a7kbb_1686151.jpg?q=80",
+        "https://imgd.aeplcdn.com/370x208/n/sgulkbb_1686147.jpg?q=80",
+        "https://imgd.aeplcdn.com/370x208/n/91fkkbb_1686097.jpg?q=80",
+        "https://imgd.aeplcdn.com/370x208/n/ittlkbb_1686145.jpg?q=80"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi A4",
+      "price": "₹45,00,000",
+      "ncap_rating": 5,
+      "description": "A premium sedan with advanced tech and quattro all-wheel drive.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Mumbai"
+    },
+    {
+      "id": "audi002",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/53591/q5-exterior-right-front-three-quarter-36.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/53591/q5-facelift-exterior-right-side-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/53591/q5-facelift-exterior-left-side-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/53591/q5-facelift-exterior-right-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/53591/q5-facelift-exterior-rear-view.jpeg?isig=0"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi Q5",
+      "price": "₹65,00,000",
+      "ncap_rating": 5,
+      "description": "Luxury SUV with powerful performance and elegant design.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi"
+    },
+    {
+      "id": "audi003",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/192279/q7-exterior-front-view.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/192279/q7-exterior-left-side-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/192279/q7-exterior-left-front-three-quarter-11.jpeg?isig=0",
+        "hhttps://imgd.aeplcdn.com/1920x1080/n/cw/ec/192279/q7-exterior-left-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/192279/q7-exterior-right-side-view.jpeg?isig=0"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi Q7",
+      "price": "₹88,00,000",
+      "ncap_rating": 5,
+      "description": "Spacious 7-seater SUV with top-tier features and comfort.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Bangalore"
+    },
+    {
+      "id": "audi004",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/28379/q3-exterior-right-front-three-quarter-93481.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/28379/q3-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/28379/q3-exterior-left-front-three-quarter-3.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/28379/q3-exterior-left-side-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/28379/q3-exterior-left-front-three-quarter-2.jpeg?isig=0"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi Q3",
+      "price": "₹45,00,000",
+      "ncap_rating": 5,
+      "description": "Compact luxury SUV with a powerful engine and stylish interior.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Pune"
+    },
+    {
+      "id": "audi005",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/39472/a6-exterior-left-front-three-quarter-10.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/39472/a6-exterior-left-rear-three-quarter-5.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/39472/a6-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/39472/a6-exterior-left-rear-three-quarter-6.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/39472/a6-exterior-left-side-view-10.jpeg?isig=0"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi A6",
+      "price": "₹67,00,000",
+      "ncap_rating": 5,
+      "description": "Sleek sedan with a perfect balance of power and elegance.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Hyderabad"
+    },
+    {
+      "id": "audi006",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/124141/a8-l-exterior-right-front-three-quarter-3.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/124141/a8-l-exterior-left-side-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/124141/a8-l-exterior-right-side-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/124141/a8-l-exterior-left-front-three-quarter-7.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/124141/a8-l-exterior-front-view-10.jpeg?isig=0"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi A8",
+      "price": "₹1,35,00,000",
+      "ncap_rating": 5,
+      "description": "Flagship luxury sedan with cutting-edge technology and comfort.",
+      "category": "Car",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Chennai"
+    },
+    {
+      "id": "audi007",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/47073/e-tron-gt-exterior-right-front-three-quarter-2.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/47073/e-tron-gt-exterior-left-side-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/47073/e-tron-gt-exterior-left-front-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/47073/e-tron-gt-exterior-left-rear-three-quarter-8.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/47073/e-tron-gt-exterior-rear-view.jpeg?isig=0"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi e-tron",
+      "price": "₹1,20,00,000",
+      "ncap_rating": 5,
+      "description": "Audi's all-electric SUV with a futuristic driving experience.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Mumbai"
+    },
+    {
+      "id": "audi008",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/100073/rs5-exterior-left-front-three-quarter.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/100073/rs5-exterior-right-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/100073/rs5-exterior-front-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/100073/rs5-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/100073/rs5-exterior-left-side-view.jpeg?isig=0"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi RS5",
+      "price": "₹1,13,00,000",
+      "ncap_rating": 5,
+      "description": "Performance coupe with aggressive design and raw power.",
+      "category": "Car",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Kolkata"
+    },
+    {
+      "id": "audi009",
+      "main_image": "https://i.ytimg.com/vi/mstKnzuMmyk/maxresdefault.jpg",
+      "gallery_images": [
+        "https://global.discourse-cdn.com/forza/original/4X/7/8/0/780e07a145c63928276c2802470b14ac62b25dc6.jpeg",
+        "https://imgcdn.zigwheels.co.th/large/gallery/color/2/16/audi-tt-color-796790.jpg",
+        "https://t0.gstatic.com/images?q=tbn:ANd9GcTIF3d6kFzNeXVPp_glTMa9i-MwIzVxSNHkWv2irZo1bILIzdgI0HXq5lLgCIYjDehBp_zrIWEV",
+        "https://t3.gstatic.com/images?q=tbn:ANd9GcQEt3hv2qG4Hl3IIVDY3vw7S6uB_n6nTqK-xkCyMChRSzP15G_4XtWwF8i1pF70WjvbqT1Il0n2"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi TT",
+      "price": "₹80,00,000",
+      "ncap_rating": 4,
+      "description": "Compact sports car with iconic styling and fun performance.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi"
+    },
+    {
+      "id": "audi010",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/184519/q8-exterior-left-front-three-quarter.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/184519/q8-exterior-left-rear-three-quarter.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/184519/q8-exterior-left-side-view.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/184519/q8-exterior-rear-view.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/184519/q8-exterior-right-rear-three-quarter.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://e7.pngegg.com/pngimages/960/454/png-clipart-audi-rs-4-car-bmw-logo-benz-logo-text-trademark.png",
+      "name": "Audi Q8",
+      "price": "₹1,20,00,000",
+      "ncap_rating": 5,
+      "description": "Luxury coupe-style SUV with cutting-edge tech and bold styling.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Ahmedabad"
+    },
+
+    {
+      "id": "volvo001",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131131/xc60-exterior-front-view.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131131/xc60-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131131/xc60-exterior-left-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131131/xc60-exterior-right-front-three-quarter-3.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/131131/xc60-exterior-right-front-three-quarter-3.jpeg?isig=0"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo XC60",
+      "price": "₹67,50,000",
+      "ncap_rating": 5,
+      "description": "Mid-size luxury SUV with elegant Scandinavian design and advanced safety features.",
+      "category": "New",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Mumbai"
+    },
+    {
+      "id": "volvo002",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/198257/xc90-exterior-front-view.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/198257/xc90-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/198257/xc90-exterior-left-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/198257/xc90-exterior-right-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/198257/xc90-exterior-right-side-view.jpeg?isig=0"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo XC90",
+      "price": "₹98,50,000",
+      "ncap_rating": 5,
+      "description": "Flagship 7-seater SUV combining performance, luxury, and world-class safety.",
+      "category": "New",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi"
+    },
+    {
+      "id": "volvo003",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/150611/c40-recharge-exterior-right-front-three-quarter-3.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/150611/c40-recharge-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/150611/c40-recharge-exterior-right-side-view-2.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/150611/c40-recharge-exterior-left-side-view-2.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/150611/c40-recharge-exterior-right-front-three-quarter-22.jpeg?isig=0"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo C40 Recharge",
+      "price": "₹62,95,000",
+      "ncap_rating": 5,
+      "description": "Futuristic all-electric SUV coupe with great range and elegant design.",
+      "category": "New",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Bangalore"
+    },
+
+    {
+      "id": "volvo004",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131145/s90-exterior-left-rear-three-quarter.jpeg?isig",
+      "gallery_images": [
+        "data:image/webp;base64,UklGRn4JAABXRUJQVlA4IHIJAAD...aevSgeKdBsvYkN5n2823UuogTFTXE326Jmma+SBSJt4EAAAAA=",
+        "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD...VKE+aO6g1U+aO6m8ekpavxOk/ToHvh40NVTVT5o7q6m8ein//Z",
+        "data:image/webp;base64,UklGRmYGAABXRUJQVlA4IFoGAAA...dSgwHiDUEhADlqZAdrhUpXcZiwS2gY2kMCqX2gqQc+iBoZAAA=",
+        "data:image/webp;base64,UklGRgoIAABXRUJQVlA4IP4HAAB...O+GF7MidvWVo8CffXYSUbtPnizJ+5gQjRYGbkruhKn7f4AAAA="
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo S90",
+      "price": "₹68,25,000",
+      "ncap_rating": 5,
+      "description": "Luxury sedan with timeless styling and a focus on comfort and safety.",
+      "category": "New",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Hyderabad"
+    },
+    {
+      "id": "volvo005",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131141/xc40-exterior-right-front-three-quarter-108.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131141/xc40-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131141/xc40-exterior-right-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131141/xc40-exterior-left-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131141/xc40-exterior-front-view.jpeg?isig=0"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo XC40",
+      "price": "₹46,40,000",
+      "ncap_rating": 5,
+      "description": "Compact SUV that excels in safety, efficiency, and style.",
+      "category": "Old",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Chennai"
+    },
+    {
+      "id": "volvo006",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131131/xc60-exterior-right-front-three-quarter-3.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131131/xc60-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131131/xc60-exterior-left-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131131/xc60-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/131131/xc60-exterior-front-fog-lamp.jpeg?isig=0"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo XC60 Hybrid",
+      "price": "₹72,50,000",
+      "ncap_rating": 5,
+      "description": "Plug-in hybrid SUV with class-leading tech and fuel efficiency.",
+      "category": "New",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Pune"
+    },
+    {
+      "id": "volvo007",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/27032/s60-exterior-right-front-three-quarter-3.jpeg?q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/27032/new-s60-exterior-right-side-view-2.jpeg?q=80",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/27032/new-s60-exterior-left-side-view.jpeg?q=80",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/27032/new-s60-exterior-right-rear-three-quarter.jpeg?q=80",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/27032/new-s60-exterior-left-front-three-quarter-2.jpeg?q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo S60",
+      "price": "₹56,90,000",
+      "ncap_rating": 5,
+      "description": "Dynamic sedan blending performance and safety in a sleek package.",
+      "category": "Old",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Kolkata"
+    },
+    {
+      "id": "volvo008",
+      "main_image": "https://imgd.aeplcdn.com/664x374/cw/ec/26873/Volvo-V90-Cross-Country-Right-Front-Three-Quarter-102476.jpg?v=201711021421&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/cw/ec/26873/Volvo-V90-Cross-Country-Exterior-90655.jpg?v=201711021421&q=80",
+        "https://imgd.aeplcdn.com/664x374/cw/ec/26873/Volvo-V90-Cross-Country-left-rear-three-quarter-90657.jpg?v=201711021421&q=80",
+        "https://imgd.aeplcdn.com/600x337/n/3xh9rsa_1477989.jpg?q=80",
+        "https://imgd.aeplcdn.com/664x374/cw/ec/26873/Volvo-V90-Cross-Country-left-rear-three-quarter-90657.jpg?v=201711021421"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo V90 Cross Country",
+      "price": "₹65,00,000",
+      "ncap_rating": 5,
+      "description": "Luxury crossover with off-road capability and refined comfort.",
+      "category": "Old",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Ahmedabad"
+    },
+    {
+      "id": "volvo009",
+      "main_image": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/bltba40b6d7c1d839cf/67a62cbd0c9d7ace1dc202e7/EC40-Electric-Image.jpg?branch=prod_alias&auto=avif&quality=85&format=webp&iar=0&w=3840&imdensity=1",
+      "gallery_images": [
+        "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt976c5e3fac454751/66cbafffad9ec254071df1aa/ex40-electric-gallery-5-16x9.jpg?branch=prod_alias",
+        "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt8ee69ef3d05bf157/66cbaff927beb558e70e83f4/ex40-electric-gallery-3-16x9.jpg?branch=prod_alias",
+        "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt3226d97d8fa5ddd9/66cbaff3786da620c6c318e3/ex40-electric-gallery-1-16x9.jpg?branch=prod_alias",
+        "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt2b22be6aa4b6dbe9/66cbb03662cd645331c2f668/ex40-electric-promotional-background-image-2x3.jpg?branch=prod_alias"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo XC40 Recharge",
+      "price": "₹56,90,000",
+      "ncap_rating": 5,
+      "description": "All-electric version of XC40 with rapid acceleration and bold style.",
+      "category": "New",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Delhi"
+    },
+    {
+      "id": "volvo010",
+      "main_image": "https://car-images.bauersecure.com/wp-images/13024/51-volvo-xc90-t8-2024-front-driving.jpg",
+      "gallery_images": [
+        "https://wizz.volvocars.com/images/2025/256/exterior/studio/threeQuartersFrontLeft/exterior-studio-threeQuartersFrontLeft_189D33C420DB816FB5DA3564825096BED644D5AA.png?client",
+        "https://img.autocarindia.com/ExtraImages/20240905010210_2024_Volvo_XC90_facelift_front.jpg",
+        "https://i.ytimg.com/vi/zlgyrLfU8Co/hq720.jpg?sqp",
+        "https://i.ytimg.com/vi/3xs-LYcK0UM/hq720.jpg?sqp"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs5mfax1_uSM14fxablFC4hyLpAU-hbt2FA&s",
+      "name": "Volvo XC90 Hybrid",
+      "price": "₹1,10,00,000",
+      "ncap_rating": 5,
+      "description": "Plug-in hybrid luxury SUV offering unmatched refinement and eco-performance.",
+      "category": "New",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Bangalore"
+    }
+  ]
+}
