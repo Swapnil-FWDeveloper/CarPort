@@ -1,0 +1,390 @@
+{
+  "bugatti": [
+    {
+      "id": "bugatti001",
+      "main_image": "https://bugatti.imgix.net/677aa8b9531541bbada7c4e0/chiron-sport-og.jpg",
+      "gallery_images": [
+        "https://images4.alphacoders.com/114/1145991.jpg",
+        "https://w0.peakpx.com/wallpaper/517/475/HD-wallpaper-bugatti-chiron-42-bugatti-chiron-chiron-bugatti-car.jpg",
+        "https://imgcdn.sayaratbay.com/large/gallery/exterior/89/1409/bugatti-chiron-full-front-view-105894.jpg",
+        "https://www.supercars.net/blog/wp-content/uploads/2020/07/2017-Bugatti-Chiron-016-1600.jpg"
+      ],
+      "brand_logo": "https://preview.thenewsmarket.com/Previews/TNML/StillAssets/1920x1440/518313.png",
+      "name": "Bugatti Chiron",
+      "price": "₹18,50,00,000",
+      "ncap_rating": 3,
+      "description": "Ultimate hypercar with quad‑turbo W16, blistering speed and precision engineering.",
+      "category": "Supercar",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Mumbai"
+    },
+    {
+      "id": "bugatti002",
+      "main_image": "https://cdn.wallpapersafari.com/29/50/79s5nD.jpg",
+      "gallery_images": [
+        "https://cdn.wallpapersafari.com/7/47/TDgzoN.jpg",
+        "https://wallpapercave.com/wp/jTm2ZSP.jpg",
+        "https://c4.wallpaperflare.com/wallpaper/389/224/905/bugatti-veyron-super-sports-wallpaper-preview.jpg",
+        "https://wallpapers.com/images/featured/bugatti-a7aaeh82bm0s1r5k.jpg"
+      ],
+      "brand_logo": "https://preview.thenewsmarket.com/Previews/TNML/StillAssets/1920x1440/518313.png",
+      "name": "Bugatti Veyron",
+      "price": "₹15,00,00,000",
+      "ncap_rating": 5,
+      "description": "Legendary Veyron – world’s first production car over 400 km/h.",
+      "category": "Supercar",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Delhi"
+    },
+    {
+      "id": "bugatti003",
+      "main_image": "https://cdn.motor1.com/images/mgl/k2KRn/s1/bugatti-divo.jpg",
+      "gallery_images": [
+        "https://images.hdqwalls.com/wallpapers/bugatti-divo-2018-car-ss.jpg",
+        "https://images.caricos.com/b/bugatti/2019_bugatti_divo/images/2560x1440/2019_bugatti_divo_2_2560x1440.jpg",
+        "https://stimg.cardekho.com/images/carexteriorimages/930x620/Bugatti/Bugatti-Divo/6528/rear-view-119.jpg?impolicy=resize&imwidth=420",
+        "https://rare-gallery.com/uploads/posts/859036-Divo-2019-BUGATTI-Back-view.jpg"
+      ],
+      "brand_logo": "https://preview.thenewsmarket.com/Previews/TNML/StillAssets/1920x1440/518313.png",
+      "name": "Bugatti Divo",
+      "price": "₹22,00,00,000",
+      "ncap_rating": 3,
+      "description": "Track‑focused hypercar with lightweight design and extreme handling.",
+      "category": "Supercar",
+      "available": false,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Bangalore"
+    },
+    {
+      "id": "bugatti004",
+      "main_image": "https://c4.wallpaperflare.com/wallpaper/141/131/656/bugatti-centodieci-car-vehicle-supercars-hd-wallpaper-preview.jpg",
+      "gallery_images": [
+        "https://backiee.com/static/wallpapers/560x315/351513.jpg",
+        "https://4kwallpapers.com/images/walls/thumbs_2t/9109.jpeg",
+        "https://www.wsupercars.com/thumbnails/Bugatti/2020-Bugatti-Centodieci-003.jpg",
+        "https://img.goodfon.ru/wallpaper/big/4/6d/avtomobil-les-bugatti-centodieci-2022.webp"
+      ],
+      "brand_logo": "https://preview.thenewsmarket.com/Previews/TNML/StillAssets/1920x1440/518313.png",
+      "name": "Bugatti Centodieci",
+      "price": "₹35,00,00,000",
+      "ncap_rating": 4,
+      "description": "Limited-run homage to the EB110, Ferrari 288 GTO rival.",
+      "category": "Supercar",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Pune"
+    },
+    {
+      "id": "bugatti005",
+      "main_image": "https://bugatti-newsroom.imgix.net/1e4162afb9114569aa4b13506045ed3c/01_LVN_34-Front.jpg",
+      "gallery_images": [
+        "https://bugatti.imgix.net/677ab166531541bbada910a0/lavoiturenoire-og.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjhai4A2DQ2WPquL_JDbb1p6khcRpFO8mvw&s",
+        "https://www.shutterstock.com/image-illustration/szczecin-polandjanuary-2021bugatti-la-voiture-600nw-1897423201.jpg",
+        "https://i.ytimg.com/vi/XYQEUVl-8ZA/maxresdefault.jpg"
+      ],
+      "brand_logo": "https://preview.thenewsmarket.com/Previews/TNML/StillAssets/1920x1440/518313.png",
+      "name": "Bugatti La Voiture Noire",
+      "price": "₹45,00,00,000",
+      "ncap_rating": 4,
+      "description": "One‑off grand tourer: world’s most expensive new car.",
+      "category": "Supercar",
+      "available": false,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Chennai"
+    }
+  ],
+  "mg": [
+    {
+      "id": "mg001",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/130583/hector-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-left-rear-three-quarter.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/370x208/n/cw/ec/130583/hector-exterior-right-front-three-quarter-86.jpeg?isig=0&q=80",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Z-Ic86sv_YUHfHb2PNId9HlyOjFTG8SkGA&s",
+        "https://www.mgmotor.co.in/content/dam/mgmotor/images/hc-img-dsc-0604.jpg"
+      ],
+      "brand_logo": "https://car-logos.b-cdn.net/wp-content/uploads/2023/04/mg-logo-2021-present-scaled.webp",
+      "name": "MG Hector",
+      "price": "₹17,00,000",
+      "ncap_rating": 4,
+      "description": "Feature‑rich mid‑size SUV with panoramic sunroof, ADAS & 10.4\" touchscreen.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Mumbai"
+    },
+    {
+      "id": "mg002",
+      "main_image": "https://ackodrive-assets.ackodrive.com/media/test_SuASMGu.png",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/110437/zs-ev-interior-steering-wheel.jpeg?isig=0&q=80&q=80",
+        "https://blogs.gomechanic.com/wp-content/uploads/2019/12/mg-zs-ev-india.jpg",
+        "https://img.autocarindia.com/ExtraImages/20250616053933_MG%20ZS%20EV%20.jpg",
+        "https://evduniya.com/wp-content/uploads/2020/06/MG-ZS-EV-Review.png"
+      ],
+      "brand_logo": "https://car-logos.b-cdn.net/wp-content/uploads/2023/04/mg-logo-2021-present-scaled.webp",
+      "name": "MG ZS EV",
+      "price": "₹24,00,000",
+      "ncap_rating": 5,
+      "description": "Compact electric SUV, long range and eco‑friendly.",
+      "category": "EV",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi"
+    },
+    {
+      "id": "mg003",
+      "main_image": "https://images.autox.com/uploads/2023/01/MG-Hector-Plus-Candy-White-500x261.jpg",
+      "gallery_images": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/Hector-Plus/11655/MG-Hector-Plus-BlackStorm-Diesel/1712744337077/front-left-side-47.jpg",
+        "https://stimg.cardekho.com/images/carexteriorimages/930x620/MG/Hector-Plus/11547/1741693325176/exterior-image-164.jpg?impolicy=resize&imwidth=420",
+        "https://mgmotor.scene7.com/is/image/mgmotor/mg-img-dsc-0146?fmt=png-alpha",
+        "https://imgd.aeplcdn.com/642x361/n/cw/ec/141641/mg-hector-left-front-three-quarter1.jpeg?isig=0&wm=1&q=75"
+      ],
+      "brand_logo": "https://car-logos.b-cdn.net/wp-content/uploads/2023/04/mg-logo-2021-present-scaled.webp",
+      "name": "MG Hector Plus",
+      "price": "₹19,50,000",
+      "ncap_rating": 4,
+      "description": "7‑seater version of Hector with added space & features.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Bangalore"
+    },
+    {
+      "id": "mg004",
+      "main_image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/Gloster/9296/1719399160913/front-left-side-47.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1056x594/n/cw/ec/50367/mg-gloster-right-front-three-quarter3.jpeg?wm=1&q=80",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwcWTVJv0Xjvsk_GXuSDttnt6iDpPmzKmIw&s",
+        "https://mgmotor.scene7.com/is/image/mgmotor/gs-img-dsc-0100?$mg-rgb-tablet-image-responsive$&fmt=png-alpha",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-EdJXSvw2C5IhfXU4d54jU_4-XTgmPga5g&s/MG-Gloster-dashboard-1600x900.jpg"
+      ],
+      "brand_logo": "https://car-logos.b-cdn.net/wp-content/uploads/2023/04/mg-logo-2021-present-scaled.webp",
+      "name": "MG Gloster",
+      "price": "₹35,00,000",
+      "ncap_rating": 5,
+      "description": "Full‑size SUV with luxury features and best‑in‑class safety.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Hyderabad"
+    },
+    {
+      "id": "mg005",
+      "main_image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/MG/Comet-EV/11556/1720151908023/front-left-side-47.jpg?impolicy=resize&imwidth=420",
+      "gallery_images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM_FnJjFQpAA4rqERLWJD8c2Zo_BPyIaxLpw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrjp9mC4znYeQk6EqTE6QuSxPXvbPI38AAA&s",
+        "https://images.timesdrive.in/thumb/msid-151214163,thumbsize-511749,width-450,height-254,resizemode-75/151214163.jpg",
+        "https://images.hindustantimes.com/auto/img/2023/08/04/1600x900/MG_Comet_EV_Gamer_Edition_1691131021114_1691131023901.jpg"
+      ],
+      "brand_logo": "https://car-logos.b-cdn.net/wp-content/uploads/2023/04/mg-logo-2021-present-scaled.webp",
+      "name": "MG Comet EV",
+      "price": "₹12,00,000",
+      "ncap_rating": 4,
+      "description": "City‑friendly electric hatchback with compact design.",
+      "category": "EV",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Pune"
+    }
+  ],
+  "kia": [
+    {
+      "id": "kia001",
+      "main_image": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/showroom/seltos-desktop.png",
+      "gallery_images": [
+        "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Seltos-2023/8709/1688465684023/front-left-side-47.jpg",
+        "https://i.pinimg.com/736x/67/94/85/679485eb11f048f17bbf75b992e374fa.jpg",
+        "https://imgd.aeplcdn.com/664x374/n/ima73cb_1726651.jpg?q=80",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdomKyXVWSNATJcdFFnD4UpfmNPo3KEo7PIQ&s"
+      ],
+      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/KIA_logo2.svg",
+      "name": "Kia Seltos",
+      "price": "₹16,00,000",
+      "ncap_rating": 4,
+      "description": "Compact SUV with modern design, AWD option & advanced connectivity.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Mumbai"
+    },
+    {
+      "id": "kia002",
+      "main_image": "https://ic4.maxabout.us/autos/cars_india//N/2023/12/new-2024-kia-sonet-price-in-india.jpg",
+      "gallery_images": [
+        "https://shreenath-kia.in/Web/content/dam/kia2/in/en/images/our-vehicles/sonet/gallery/exterior/sonet_gallery_6.jpg",
+        "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/174423/sonet-exterior-left-rear-three-quarter.jpeg?isig=0&q=80",
+        "https://spn-sta.spinny.com/blog/20220228144356/Kia-Sonet-GTX.jpg",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/174423/sonet-exterior-left-front-three-quarter.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/KIA_logo2.svg",
+      "name": "Kia Sonet",
+      "price": "₹10,00,000",
+      "ncap_rating": 4,
+      "description": "Compact SUV with punchy performance and youthful styling.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Bangalore"
+    },
+    {
+      "id": "kia003",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/88kj3cb_1726573.jpg?q=80",
+      "gallery_images": [
+        "https://img.autocarindia.com/Galleries/20220131033259_Kia%20Carens%2013.jpg?w=736&h=488&q=75&c=1",
+        "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/174325/carens-exterior-right-rear-three-quarter.jpeg?isig=0&q=80",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe231bGl7XrQpAyj8Nox45h_BFWO-VgV_BLw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFaaimJISZ8buROGTlZH-aXAWsO241-Mz9Q&s"
+      ],
+      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/KIA_logo2.svg",
+      "name": "Kia Carens",
+      "price": "₹15,50,000",
+      "ncap_rating": 4,
+      "description": "Versatile 7‑seater MPV suitable for family drives.",
+      "category": "MPV",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi"
+    },
+    {
+      "id": "kia004",
+      "main_image": "https://images.unsplash.com/photo-1718780138801-d93ebf484827?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8a2lhJTIwZXY2fGVufDB8fDB8fHww",
+      "gallery_images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIPExBWrq6KNTDHo8B1ORRpF0qWEndGJdZw&s",
+        "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/114971/ev6-exterior-left-front-three-quarter.jpeg?isig=0&q=80",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmvbMVGLFDA_uIO5wkFC_txgOOqAaKW5P1A&s",
+        "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/06/20221920/Kia-EV6_US-Version-2022-hd-1600x750.jpg"
+      ],
+      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/KIA_logo2.svg",
+      "name": "Kia EV6",
+      "price": "₹45,00,000",
+      "ncap_rating": 5,
+      "description": "Electric crossover with modern tech and long-range performance.",
+      "category": "EV",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Hyderabad"
+    },
+    {
+      "id": "kia005",
+      "main_image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Carnival/8001/1728021410510/front-left-side-47.jpg?impolicy=resize&imwidth=420",
+      "gallery_images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEak0VK8ukTIJ5QaJpjfxAW2TIp6zX0sVSug&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaksNsydCbhIHyKeejO-oZC4xwlYgfoqhng&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0rhjmiCj44Ol0Ixat3ncYZWB5ZGP0FE2-w&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-BDuA10gIIElfNBM1z1dLR-4mBumQzPcorg&s"
+      ],
+      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/KIA_logo2.svg",
+      "name": "Kia Carnival",
+      "price": "₹28,00,000",
+      "ncap_rating": 5,
+      "description": "Premium MPV with 7/8 seat flexibility and feature-rich cabin.",
+      "category": "MPV",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Chennai"
+    }
+  ],
+  "mahindra": [
+    {
+      "id": "mahindra001",
+      "main_image": "https://mda.spinny.com/sp-file-system/public/2025-02-28/6e328039e5ae443ab02cab3b40b178a7/raw/file.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/370x208/n/cw/ec/199647/xuv700-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+        "https://mda.spinny.com/sp-file-system/public/2025-02-28/1c4fb7cb53f44725b42247d545a16abe/raw/file.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLkWiWonRfFN9u1O7PE7-We4z7jwDW7hXIg&s",
+        "https://mda.spinny.com/sp-file-system/public/2025-02-28/822f33422cbb40cd978e1950f577ba68/raw/file.jpg"
+      ],
+      "brand_logo": "https://images.forbesindia.com/blog/wp-content/uploads/2021/08/Mahindra.jpg",
+      "name": "Mahindra XUV700",
+      "price": "₹16,50,000",
+      "ncap_rating": 5,
+      "description": "Feature‑packed 5‑seater SUV with ADAS, panoramic sunroof & turbo engine.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Mumbai"
+    },
+    {
+      "id": "mahindra002",
+      "main_image": "https://wallpapers.com/images/featured/mahindra-thar-2021-bkshxu7y8dibj131.jpg",
+      "gallery_images": [
+        "https://img.autocarpro.in/autocarpro/7d7b85e3-35b8-4fad-ae01-db1a929c6c9b.jpg?w=750&h=490&q=75&c=1",
+        "https://images.hindustantimes.com/auto/img/2024/02/28/600x338/Mahindra_Thar_Earth_Edition_1709092308912_1709092331473.png",
+        "https://images.news18.com/ibnlive/uploads/2022/09/feature-image-1-16620361333x2.jpg",
+        "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/40087/thar-exterior-right-rear-three-quarter.jpeg?q=80"
+      ],
+      "brand_logo": "https://images.forbesindia.com/blog/wp-content/uploads/2021/08/Mahindra.jpg",
+      "name": "Mahindra Thar",
+      "price": "₹14,00,000",
+      "ncap_rating": 3,
+      "description": "Iconic off‑roader with rugged styling and open‑top fun.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi"
+    },
+    {
+      "id": "mahindra003",
+      "main_image": "https://img.gaadicdn.com/images/carexteriorimages/930x620/Mahindra/Bolero/10754/1749621185227/exterior-image-165.jpg",
+      "gallery_images": [
+        "https://i.pinimg.com/564x/84/48/51/8448514f0fd0483d79ede1c2b94b8da3.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzLEYgRxJt6xeDcLSRUxZM2eJXESSyR0-KQ&s",
+        "https://imgd.aeplcdn.com/600x337/cw/ec/25127/Mahindra-Bolero-Power-Plus-First-Drive-80816.jpg?wm=1&q=75",
+        "https://i.pinimg.com/736x/60/de/93/60de93d641bb44ac093fcf070b9271b1.jpg"
+      ],
+      "brand_logo": "https://images.forbesindia.com/blog/wp-content/uploads/2021/08/Mahindra.jpg",
+      "name": "Mahindra Bolero",
+      "price": "₹9,50,000",
+      "ncap_rating": 2,
+      "description": "Rugged and reliable SUV for tough terrain and rural roads.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Bangalore"
+    },
+    {
+      "id": "mahindra004",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://i.pinimg.com/736x/b2/59/6b/b2596b26977ecc9cd73bcaf0814641d1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1Tl4ni3hydahEjBST8APQQZxgdgIZjDO1g&s",
+        "https://cdn.cars24.com/prod/new-car-cms/Mahindra/XUV300/2024/06/11/746d4bbb-3248-4643-8c27-a66d957fe49e-Mahindra_XUV300_Exteriors_2.jpg",
+        "https://imgd.aeplcdn.com/642x336/n/cw/ec/131907/xuv300-turbosport-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://images.forbesindia.com/blog/wp-content/uploads/2021/08/Mahindra.jpg",
+      "name": "Mahindra XUV300",
+      "price": "₹8,50,000",
+      "ncap_rating": 4,
+      "description": "Compact SUV with strong safety scores and sporty handling.",
+      "category": "SUV",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Chennai"
+    },
+    {
+      "id": "mahindra005",
+      "main_image": "https://auto.hindustantimes.com/cms-images/mahindra_be-6e/images/exterior_mahindra-be-6_front-right-side_1110x740.jpeg",
+      "gallery_images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamOSXhXH8SWgIvdpjTQXITeB2zC7xdD2uBA&s",
+        "https://images.91wheels.com/assets/c_images/gallery/mahindra/be-6e/mahindra-be-6e-27-1732771537.jpg?w=480&q=60?w=1080&q=60",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA7LA1yYbE2iZA_TqflGQwAOTBu1sTf5jhBg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZ4-HX7zWyQtTp4x3TcQ9huCuxVRPoIU0Lg&s"
+      ],
+      "brand_logo": "https://images.forbesindia.com/blog/wp-content/uploads/2021/08/Mahindra.jpg",
+      "name": "Mahindra BE6",
+      "price": "₹21,00,000",
+      "ncap_rating": 4,
+      "description": "Electric heavy‑duty pickup concept, futuristic and rugged.",
+      "category": "EV",
+      "available": false,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Hyderabad"
+    }
+  ]
+}
