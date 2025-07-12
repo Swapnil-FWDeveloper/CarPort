@@ -1,0 +1,194 @@
+{
+  "products": [
+    {
+      "id": "tata001",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-facelift-exterior-left-side-view.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-facelift-exterior-left-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-facelift-exterior-rear-view.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-rear-three-quarter-2.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-facelift-exterior-right-front-three-quarter-69.jpeg?isig=0"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Nexon",
+      "price": "₹9,00,000",
+      "ncap_rating": 5,
+      "description": "India’s first 5-star safety rated compact SUV with sporty design.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Mumbai"
+    },
+    {
+      "id": "tata002",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/139585/harrier-ev-exterior-right-front-three-quarter-18.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/139585/harrier-ev-exterior-right-side-view.png?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/139585/harrier-ev-exterior-right-rear-three-quarter-2.png?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/139585/harrier-ev-interior-dashboard-19.png?isig=0",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/139585/harrier-ev-exterior-left-front-three-quarter-14.png?isig=0"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Harrier",
+      "price": "₹16,00,000",
+      "ncap_rating": 5,
+      "description": "Premium mid-size SUV with bold design and advanced features.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi"
+    },
+    {
+      "id": "tata003",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-57.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-53.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-side-view.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-left-front-three-quarter-8.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-interior-steering-wheel.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Punch",
+      "price": "₹7,00,000",
+      "ncap_rating": 5,
+      "description": "Micro SUV with high ground clearance and strong safety.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Bangalore"
+    },
+    {
+      "id": "tata004",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-39.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-22.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-38.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Safari",
+      "price": "₹22,00,000",
+      "ncap_rating": 5,
+      "description": "Iconic SUV reborn with 6/7-seater flexibility and premium features.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Hyderabad"
+    },
+    {
+      "id": "tata005",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/199863/altroz-facelift-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/199863/altroz-facelift-exterior-right-side-view.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/199863/altroz-facelift-exterior-right-rear-three-quarter.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/199863/altroz-facelift-exterior-rear-view-3.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/199863/altroz-facelift-exterior-left-rear-three-quarter-3.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Altroz",
+      "price": "₹8,00,000",
+      "ncap_rating": 5,
+      "description": "Premium hatchback with 5-star safety and sporty styling.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Chennai"
+    },
+    {
+      "id": "tata006",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-32.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-interior-dashboard-3.jpeg?q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-interior-front-row-seats-2.jpeg?q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-32.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-interior-rear-seats-18.jpeg?q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Tiago",
+      "price": "₹6,00,000",
+      "ncap_rating": 4,
+      "description": "Stylish and practical hatchback with impressive mileage.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Pune"
+    },
+    {
+      "id": "tata007",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-22.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-side-view.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-side-view-18.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-rear-three-quarter-2.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Tigor",
+      "price": "₹7,00,000",
+      "ncap_rating": 4,
+      "description": "Compact sedan with stylish looks and strong build.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Kolkata"
+    },
+    {
+      "id": "tata008",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/149123/nexon-ev-exterior-right-front-three-quarter-79.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/149123/nexon-ev-exterior-right-rear-three-quarter.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/149123/nexon-ev-exterior-left-side-view.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/149123/nexon-ev-exterior-left-front-three-quarter.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/149123/nexon-ev-exterior-front-view.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Nexon EV",
+      "price": "₹15,00,000",
+      "ncap_rating": 5,
+      "description": "India’s best-selling electric SUV with zero emissions.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Ahmedabad"
+    },
+    {
+      "id": "tata009",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/148309/punch-ev-exterior-right-front-three-quarter-10.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/148309/punch-ev-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/39015/punch-exterior-right-rear-three-quarter.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/148309/punch-ev-exterior-right-side-view.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/148309/punch-ev-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Punch EV",
+      "price": "₹12,00,000",
+      "ncap_rating": 5,
+      "description": "All-electric micro SUV with urban agility and clean driving.",
+      "category": "Car",
+      "available": false,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Delhi"
+    },
+    {
+      "id": "tata010",
+      "main_image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139651/curvv-exterior-right-front-three-quarter-15.jpeg?isig=0&q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/139651/curvv-exterior-right-front-three-quarter-16.avif?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/139651/curvv-interior-steering-wheel.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/139651/curvv-exterior-right-rear-three-quarter.jpeg?isig=0&q=80",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/139651/curvv-interior-sunroof-moonroof-2.jpeg?isig=0&q=80"
+      ],
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYuqeJeOidVmA9POoXWEIHL_yG1O4Dlcq1uSLnAON0bvwoz3GRLVTRrQ-znyxLgnsQpU&usqp=CAU",
+      "name": "Tata Curvv",
+      "price": "₹18,00,000",
+      "ncap_rating": 5,
+      "description": "Upcoming coupe SUV blending style and innovation.",
+      "category": "Car",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Mumbai"
+    }
+  ]
+}
