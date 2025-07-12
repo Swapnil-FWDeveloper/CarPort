@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "id": "bmw001",
+      "main_image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/140591/x1-exterior-right-front-three-quarter-7.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/140591/x1-exterior-left-rear-three-quarter-2.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/140591/x1-exterior-left-side-view-3.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/140591/x1-exterior-left-side-view-3.jpeg?isig=0&q=80",
+        "https://img.youtube.com/vi/CY_yNr47ZS8/mqdefault.jpg"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW 3 Series",
+      "price": "₹52,00,000",
+      "ncap_rating": 5,
+      "description": "Sporty and dynamic sedan with BMW's signature driving experience.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Nagpur",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw002",
+      "main_image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/96443/5-series-exterior-right-front-three-quarter-5.jpeg?isig=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202507/4042116_15183_7_1751714874583.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202507/4042116_15183_6_1751714874490.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202507/4042116_15183_4_1751714874270.jpg?q=80",
+        "https://imgd.aeplcdn.com/370x208/n/cw/ec/110503/x3-exterior-right-front-three-quarter-3.jpeg?isig=0"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW 5 Series",
+      "price": "₹72,00,000",
+      "ncap_rating": 5,
+      "description": "Luxury executive sedan with a perfect blend of comfort and performance.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw003",
+      "main_image": "https://imgd.aeplcdn.com/640X480/vimages/202506/4003897_152177_1_1749539778236.jpg?q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/640X480/vimages/202506/4003897_152177_18_1749622694897.jpg?q=80",
+        "https://imgd.aeplcdn.com/640X480/vimages/202506/4003897_152177_27_1749622695455.jpg?q=80",
+        "https://imgd.aeplcdn.com/640X480/vimages/202506/4003897_152177_11_1749539779749.jpg?q=80",
+        "https://imgd.aeplcdn.com/640X480/vimages/202506/4003897_152177_14_1749539780119.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW X1",
+      "price": "₹48,00,000",
+      "ncap_rating": 5,
+      "description": "Compact SUV with agile handling and modern design.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Bangalore",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw004",
+      "main_image": "https://imgd.aeplcdn.com/370x208/cw/ec/28286/BMW-X7-Right-Front-Three-Quarter-164106.jpg?wm=0",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/370x208/n/cw/ec/106821/tucson-exterior-right-front-three-quarter-7.jpeg?isig=0",
+        "https://imgd.aeplcdn.com/370x208/vimages/202506/4034246_125099_1751281286040.jpeg",
+        "https://imgd.aeplcdn.com/370x208/vimages/202208/2491133_11929_1_1659339036774.jpg",
+        "https://imgd.aeplcdn.com/370x208/cw/ec/28286/BMW-X7-Right-Front-Three-Quarter-164106.jpg?wm=0"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW X5",
+      "price": "₹1,00,00,000",
+      "ncap_rating": 5,
+      "description": "Powerful luxury SUV with spacious interiors and superior comfort.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Hyderabad",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw005",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202506/4013539_52599_1_1749992285064.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4013539_52599_4_1749992285436.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4013539_52599_5_1749992285547.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4013539_52599_6_1749992285628.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4013539_52599_3_1749992285323.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW 7 Series",
+      "price": "₹1,70,00,000",
+      "ncap_rating": 5,
+      "description": "Flagship sedan with advanced technology and luxurious comfort.",
+      "category": "Car",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Chennai",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw006",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202507/4041916_15183_1_1751710113699.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202507/4041916_15183_6_1751710114220.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202507/4041916_15183_5_1751710114108.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202507/4041916_15183_1_1751710113699.jpg",
+        "https://imgd.aeplcdn.com/300x225/vimages/202507/4041916_15183_4_1751710114021.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW iX",
+      "price": "₹1,40,00,000",
+      "ncap_rating": 5,
+      "description": "BMW's all-electric SUV with futuristic design and sustainability.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Pune",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw007",
+      "main_image": "https://imgd.aeplcdn.com/640X480/vimages/202507/4041916_15183_1_1751710113699.jpg?q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/640X480/vimages/202506/4015759_158363_7_1750153476104.jpg?q=80",
+        "https://imgd.aeplcdn.com/640X480/vimages/202506/4015759_158363_2_1750153475693.jpg?q=80",
+        "https://imgd.aeplcdn.com/640X480/vimages/202506/4015759_158363_1_1750153475478.jpg?q=80",
+        "https://imgd.aeplcdn.com/640X480/vimages/202506/4015759_158363_5_1750153475845.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW Z4",
+      "price": "₹90,00,000",
+      "ncap_rating": 5,
+      "description": "Roadster with sleek design and thrilling open-top experience.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Kolkata",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw008",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202506/4023530_156615_1750580914138.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202505/3974986_156615_1747894893628.jpeg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202505/3974986_156615_1747894893432.jpeg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4023530_156615_1750580914691.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4023530_156615_1750580914599.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW X7",
+      "price": "₹1,50,00,000",
+      "ncap_rating": 5,
+      "description": "Full-size luxury SUV with bold styling and high-end features.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Ahmedabad",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw009",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202506/4029023_158363_1_1750932279255.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4015759_158363_1_1750153475478.jpg",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4026986_158363_7_1750829742327.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4015759_158363_7_1750153476104.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4026986_158363_1_1750829741634.jpg"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW M4",
+      "price": "₹1,45,00,000",
+      "ncap_rating": 5,
+      "description": "High-performance sports coupe with aggressive looks and track power.",
+      "category": "Car",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Delhi",
+      "brand" : "bmw"
+    },
+    {
+      "id": "bmw010",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202506/4017270_158363_7_1750241914669.jpg?q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4017270_158363_6_1750241914554.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4017270_158363_5_1750241914459.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4017270_158363_4_1750241914337.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4017270_158363_1_1750241913963.jpg"
+      ],
+      "brand_logo": "https://example.com/bmw-logo.png",
+      "name": "BMW i4",
+      "price": "₹80,00,000",
+      "ncap_rating": 5,
+      "description": "All-electric Gran Coupe with dynamic driving and zero emissions.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Direct Purchase"],
+      "location": "Mumbai",
+      "brand" : "bmw"
+    },
+     {
+      "id": "lamb001",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202506/4034188_156615_1751279923062.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4034188_156615_1751279923493.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4034188_156615_1751279923617.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4034188_156615_1751279923727.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4034188_156615_1751279923843.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/lamborghini-logo.png",
+      "name": "Lamborghini Huracán EVO",
+      "price": "₹3,90,00,000",
+      "ncap_rating": 5,
+      "description": "Track-honed supercar with breathtaking design and V10 power.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Delhi",
+      "brand" : "Lamborghini"
+    },
+    {
+      "id": "lamb002",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202504/3932166_156615_1745235547737.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202504/3932166_156615_1745235547541.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202504/3932166_156615_1745235579497.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202504/3932166_156615_1745235579603.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202504/3932166_156615_1745235579673.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/lamborghini-logo.png",
+      "name": "Lamborghini Aventador SVJ",
+      "price": "₹6,25,00,000",
+      "ncap_rating": 5,
+      "description": "Flagship V12 supercar with dramatic styling and extreme performance.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise"],
+      "location": "Mumbai",
+      "brand" : "Lamborghini"
+    },
+    {
+      "id": "lamb003",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202506/3998212_156615_1749198169285.jpg",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/3998212_156615_1749198169522.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202504/3932166_156615_1745235547541.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/3998212_156615_1749198169416.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/3998212_156615_1749198169762.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/lamborghini-logo.png",
+      "name": "Lamborghini Urus",
+      "price": "₹4,25,00,000",
+      "ncap_rating": 5,
+      "description": "World’s fastest luxury SUV blending performance and utility.",
+      "category": "Car",
+      "available": true,
+      "dealership_options": ["Franchise", "Direct Purchase"],
+      "location": "Hyderabad",
+      "brand" : "Lamborghini"
+    },
+    {
+      "id": "lamb004",
+      "main_image": "https://imgd.aeplcdn.com/300x225/vimages/202506/4034188_156615_1751279923266.jpg?q=80",
+      "gallery_images": [
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4034188_156615_1751279923062.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4016582_158363_2_1750211105476.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4034188_156615_1751279923427.jpg?q=80",
+        "https://imgd.aeplcdn.com/300x225/vimages/202506/4016582_158363_4_1750211105796.jpg?q=80"
+      ],
+      "brand_logo": "https://example.com/lamborghini-logo.png",
+      "name": "Lamborghini Revuelto",
+      "price": "₹8,00,00,000",
+      "ncap_rating": 5,
+      "description": "Hybrid V12 supercar blending electrification with iconic Lamborghini DNA.",
+      "category": "Car",
+      "available": false,
+      "dealership_options": ["Franchise"],
+      "location": "Chennai",
+      "brand" : "Lamborghini"
+    }
+  ]
+}
