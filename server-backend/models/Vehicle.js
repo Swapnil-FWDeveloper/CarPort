@@ -1,3 +1,78 @@
+// const mongoose = require("mongoose");
+
+// const vehicleSchema = new mongoose.Schema(
+//   {
+//     id: {
+//       type: String,
+//       required: true,
+//       unique: true,
+//     },
+//     main_image: {
+//       type: String,
+//       required: true,
+//     },
+//     gallery_images: {
+//       type: [String],
+//       default: [],
+//     },
+//     brand_logo: {
+//       type: String,
+//     },
+//     name: {
+//       type: String,
+//       required: true,
+//     },
+//     price: {
+//       type: String, // Keeping as string due to currency format (₹45,00,000)
+//       required: true,
+//     },
+//     ncap_rating: {
+//       type: Number,
+//       min: 0,
+//       max: 5,
+//     },
+//     description: {
+//       type: String,
+//     },
+//     condition: {
+//       type: String,
+//     },
+//     fuel: {
+//       type: String,
+//       enum: ["Petrol", "Diesel", "Electric", "Hybrid", "CNG", "Other"],
+//     },
+//     manufacturing_year: {
+//       type: Number,
+//     },
+//     years_left: {
+//       type: Number,
+//     },
+//     category: {
+//       type: String, // e.g., Sedan, SUV, etc.
+//     },
+//     available: {
+//       type: Boolean,
+//       default: true,
+//     },
+//     dealership_options: {
+//       type: [String], // ["Franchise", "Direct Purchase"]
+//       default: [],
+//     },
+//     location: {
+//       type: String,
+//     },
+//     brand: {
+//       type: String,
+//     },
+//   },
+//   { timestamps: true }
+// );
+
+// const Vehicle = mongoose.model("Vehicle", vehicleSchema);
+
+// module.exports = Vehicle;
+
+// gpt ka schema
 const mongoose = require("mongoose");
 
 const vehicleSchema = new mongoose.Schema(
@@ -13,57 +88,71 @@ const vehicleSchema = new mongoose.Schema(
     },
     gallery_images: {
       type: [String],
+      required: true,
       default: [],
     },
     brand_logo: {
       type: String,
+      required: true,
     },
     name: {
       type: String,
       required: true,
     },
     price: {
-      type: String, // Keeping as string due to currency format (₹45,00,000)
+      type: String, // Stored as formatted ₹45,00,000
       required: true,
     },
     ncap_rating: {
       type: Number,
+      required: true,
       min: 0,
       max: 5,
     },
     description: {
       type: String,
+      required: true,
     },
     condition: {
       type: String,
-      enum: ["New", "Used"],
+      enum: ["New", "Used", "Brand New"],
+      required: true,
     },
     fuel: {
       type: String,
-      enum: ["Petrol", "Diesel", "Electric", "Hybrid", "CNG", "Other"],
+      enum: ["Petrol", "Diesel", "Electric", "Hybrid", "CNG", "EV", "Other"],
+      required: true,
     },
     manufacturing_year: {
       type: Number,
+      required: true,
     },
     years_left: {
-      type: Number,
+      type: mongoose.Schema.Types.Mixed, // Allows number or "Unlimited"
+      required: true,
     },
     category: {
-      type: String, // e.g., Sedan, SUV, etc.
+      type: String,
+      required: true,
     },
     available: {
       type: Boolean,
+      required: true,
       default: true,
     },
     dealership_options: {
-      type: [String], // ["Franchise", "Direct Purchase"]
+      type: [String],
+      enum: ["Franchise", "Direct Purchase", "Authorized Dealer", "Used Dealer", "Online Booking"],
+      required: true,
       default: [],
     },
     location: {
       type: String,
+      required: true,
     },
     brand: {
       type: String,
+      required: true,
     },
   },
   { timestamps: true }
@@ -72,7 +161,6 @@ const vehicleSchema = new mongoose.Schema(
 const Vehicle = mongoose.model("Vehicle", vehicleSchema);
 
 module.exports = Vehicle;
-
 
 
 // {
