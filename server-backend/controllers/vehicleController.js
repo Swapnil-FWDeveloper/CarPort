@@ -5,6 +5,7 @@ try {
     const vehicles = await Vehical.find();
     res.json({message:"all vehicles",vehicles});
 } catch (err) {
+     console.error("Error fetching vehicles:", err);
      res.status(500).json({ message: "Error fetching vehicles" });
 }
 }
