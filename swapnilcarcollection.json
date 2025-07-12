@@ -733,8 +733,6 @@
       "name": "Kia Seltos",
       "price": "₹16,00,000",
       "ncap_rating": 4,
-      "description": "Compact SUV with modern design, AWD option &  "₹16,00,000",
-      "ncap_rating": 4,
       "description": "Compact SUV with modern design, AWD option & advanced connectivity.",
       "condition": "Brand New",
       "fuel": "Petrol",
@@ -746,6 +744,7 @@
       "location": "Mumbai",
       "brand": "Kia"
     },
+
     {
       "id": "kia002",
       "main_image": "https://ic4.maxabout.us/autos/cars_india//N/2023/12/new-2024-kia-sonet-price-in-india.jpg",
